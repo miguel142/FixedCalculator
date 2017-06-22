@@ -1,0 +1,3 @@
+/Users/miguelgomez/Github/Fixed Calculator/FixedCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miguelgomez/Github/Fixed Calculator/FixedCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/miguelgomez/Github/Fixed Calculator/FixedCalculator/cmake-build-debug/CMakeFiles/FixedCalculator.dir
